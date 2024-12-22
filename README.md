@@ -185,9 +185,8 @@ e.g. Cloudinary preset name from your Cloudinary dashboard settings -> Uploads
 ## Contact
 
 ### Let's connect 🤝 <br />
-
-[![linkedin](https://img.shields.io/badge/Dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-rathore-77a588212/)
-[![GitHub](https://img.shields.io/badge/Dev-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/devmusiczz)
+[![LinkedIn](https://img.shields.io/badge/Shrawan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrawankumaryadv/)
+[![GitHub](https://img.shields.io/badge/Shrawan-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/shrawanyadkr2)
 
 © 2024 DevMusicz
 
