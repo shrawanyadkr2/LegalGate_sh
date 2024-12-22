@@ -83,12 +83,12 @@ This project was built using React, Redux, Sass, HTML, JavaScript, Rest API, Nod
 
 ### Setup
 
-The project repository can be found in [GitHub link](https://github.com/devmusiczz/LegalGate) or just clone the project using this command.
+The project repository can be found in [GitHub link](https://github.com/shrawanyadkr2/LegalGate_sh) or just clone the project using this command.
 
 ```
 Using HTTPS
 
-# git clone https://github.com/devmusiczz/LegalGate.git
+# git clone https://github.com/shrawanyadkr2/LegalGate_sh.git
 ```
 
 - Open the terminal on your workspace with
