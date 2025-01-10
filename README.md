@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <em>
-    <b>I'm currently working on this project to make this fullstack. Currently, it's a Frontend repo, To know more about this project refer to this <a href="https://www.youtube.com/watch?v=sFiag3bfncQ" target="_blank"><b>Youtube Video.</b></a> 
+    <b>I'm currently working on this project to make this fullstack. Currently, it's a Frontend repo, To know more about this project refer to this </b></a> 
   </em>
 </p>
 
