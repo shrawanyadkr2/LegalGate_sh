@@ -188,7 +188,7 @@ e.g. Cloudinary preset name from your Cloudinary dashboard settings -> Uploads
 [![LinkedIn](https://img.shields.io/badge/Shrawan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrawankumaryadv/)
 [![GitHub](https://img.shields.io/badge/Shrawan-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/shrawanyadkr2)
 [![LinkedIn](https://img.shields.io/badge/Shivaay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaay-singh/)
-[![LinkedIn](https://img.shields.io/badge/sunny Bhaiya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sunny/](https://www.linkedin.com/in/sunny-kumar-4a1bb8298/))
+[![LinkedIn](https://img.shields.io/badge/sunny_Bhaiya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sunny/](https://www.linkedin.com/in/sunny-kumar-4a1bb8298/))
 
 
 © 2024 Shrawan Yadav
